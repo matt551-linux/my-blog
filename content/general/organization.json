@@ -1,0 +1,53 @@
+{
+  "fullName": "Brian's Sandbox2 USA",
+  "shortName": "Brian SBX2",
+  "homeGroup": {
+    "addressGroup": {
+      "address": "1234 Main St",
+      "city": "Briantown",
+      "state": "CO",
+      "zipcode": "12345"
+    },
+    "contactGroup": {
+      "email": "nunya@bizness.com",
+      "phone": "(303) 555-1234",
+      "fax": "",
+      "facebook": "x",
+      "twitter": "x",
+      "instagram": "x",
+      "youtube": "x"
+    },
+    "hero": "/uploads/landscape-illustrations-3840x2160-v0-uosf0qefcqae1.webp"
+  },
+  "hoursGroup": {
+    "show": true,
+    "monday": {
+      "opens": "8:00AM",
+      "closes": "4:30PM"
+    },
+    "tuesday": {
+      "opens": "8:00AM",
+      "closes": "4:30PM"
+    },
+    "wednesday": {
+      "opens": "8:00AM",
+      "closes": "4:30PM"
+    },
+    "thursday": {
+      "opens": "8:00AM",
+      "closes": "4:30PM"
+    },
+    "friday": {
+      "opens": "8:00AM",
+      "closes": "4:30PM"
+    },
+    "saturday": {
+      "opens": "CLOSED",
+      "closes": "CLOSED"
+    },
+    "sunday": {
+      "opens": "CLOSED",
+      "closes": "CLOSED"
+    }
+  }
+}
